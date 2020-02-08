@@ -3,7 +3,8 @@
 [![img](https://img.shields.io/github/stars/fjh1997/opencore-Asus-B360M.svg?logoColor=blue&style=for-the-badge)
 ![img](https://img.shields.io/github/forks/fjh1997/opencore-Asus-B360M.svg?logoColor=blue&style=for-the-badge)
 ![img](https://img.shields.io/github/last-commit/fjh1997/opencore-Asus-B360M.svg?color=blue&style=for-the-badge)](https://github.com/fjh1997/opencore-Asus-B360M)
-[![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)share my opencore config，and my device detail below：
+[![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)
+<br>share my opencore config，and my device detail below：
 
 | Specification     | Detail                                            |
 | -------- | ----------------------------------------------------- |
