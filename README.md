@@ -4,7 +4,9 @@
 ![img](https://img.shields.io/github/forks/fjh1997/opencore-Asus-B360M.svg?logoColor=blue&style=for-the-badge)
 ![img](https://img.shields.io/github/last-commit/fjh1997/opencore-Asus-B360M.svg?color=blue&style=for-the-badge)](https://github.com/fjh1997/opencore-Asus-B360M)
 [![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)
-<br>share my opencore config，and my device detail below：
+<br>share my opencore config.
+the master branch is for opencore 0.55,and [this](https://github.com/fjh1997/opencore-Asus-B360M/tree/opencore0.56) is for 0.56.
+and my device detail below：
 
 | Specification     | Detail                                            |
 | -------- | ----------------------------------------------------- |
@@ -295,7 +297,9 @@ Save to Profile [1]
 
 ## opencore 黑苹果配置文件共享
 
-分享下我的openCore的EFI文件，我的配置如下：
+分享下我的openCore的EFI文件.
+主分支是opencore0.55，0.56的在[这里](https://github.com/fjh1997/opencore-Asus-B360M/tree/opencore0.56)
+我的配置如下：
 | 规格     | 详细信息                                                |
 | -------- | ----------------------------------------------------- |
 |处理器名称|	HexaCore Intel Core i7-8700, 4500 MHz (45 x 100)|
